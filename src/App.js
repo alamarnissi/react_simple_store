@@ -3,8 +3,7 @@
 function App() {
   return (
     <div className="App">
-      <h1>Hello web designer</h1>
-      <h2>Let's make the web a better place</h2>
+      <h1>Hello web developer</h1>
     </div>
   );
 }
